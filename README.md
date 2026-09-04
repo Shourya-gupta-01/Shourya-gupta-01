@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shourya%20Gupta&fontSize=45&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer%20%7C%20Backend%20%26%20Data%20Systems&descAlignY=62&descAlign=50" width="100%" alt="Shourya Gupta Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shourya%20Gupta&fontSize=45&fontAlignY=38&desc=AI%20and%20Machine%20Learning%20Engineer%20%7C%20Backend%20and%20Data%20Systems&descAlignY=62&descAlign=50" width="100%" alt="Shourya Gupta Banner" />
 
   <!-- Animated Typing Tagline -->
   <a href="https://github.com/Shourya-gupta-01">
@@ -30,7 +30,7 @@
 
 ---
 
-### 🚀 About Me & The Neural Terminal
+### 🚀 About Me
 
 ```yaml
 shourya@neural-hub:~$ cat profile.json
@@ -143,7 +143,7 @@ Here is a curated glimpse of what I engineer — from deep neural architectures 
 | **Artificial Intelligence & Deep Learning** | `PyTorch` • `TensorFlow` • `Scikit-Learn` • `OpenCV` • `Siamese Networks` • `NLP (Vectorization / Cosine Similarity)` • `Deep Metric Learning` |
 | **Data Science & Analytics** | `Pandas` • `NumPy` • `Matplotlib` • `Seaborn` • `Plotly` • `Exploratory Data Analysis (EDA)` • `Feature Engineering` |
 | **Backend & Microservices** | `FastAPI` • `Uvicorn` • `Flask` • `RESTful APIs` • `Python AsyncIO` • `Microservices Architecture` |
-| **Databases & Storage** | `PostgreSQL` • `MongoDB` • `SQL / Query Optimization` |
+| **Databases & Storage** | `PostgreSQL` • `SQL / Query Optimization` |
 | **Algorithms & Core CS** | `Data Structures & Algorithms` • `Striver's SDE Sheet (Python)` • `TensorTonic Challenges` • `Complexity Analysis` |
 | **DevOps, Linux & Environment** | `Linux (Kernel / Shell / POSIX)` • `Bash Scripting` • `Docker` • `Git & GitHub` • `Jupyter Notebooks` • `Postman` • `VS Code` |
 
@@ -173,7 +173,7 @@ class Shourya(Developer):
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shourya-gupta-01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=E6EDF3" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shourya-gupta-01&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=E6EDF3" alt="GitHub Stats" />
     <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shourya-gupta-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&hide=c" alt="Top Languages" />
   </p>
   <p align="center">
