@@ -149,7 +149,7 @@ Here is a curated glimpse of what I engineer — from deep neural architectures 
 ### 🛠️ Tech Arsenal & Weaponry
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,bash,linux,postgres,mongodb,docker,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,bash,linux,postgres,cpp,docker,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <br/>
@@ -205,9 +205,6 @@ class Shourya(Developer):
     <a href="https://github.com/Shourya-gupta-01?tab=overview">
       <img src="https://activity-graph.vercel.app/graph?username=Shourya-gupta-01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit & Contribution Activity Graph" />
     </a>
-  </p>
-  <p align="center">
-    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&bg_color=0D1117&q_color=00F0FF&a_color=E6EDF3" alt="Developer Humor" />
   </p>
 </div>
 
