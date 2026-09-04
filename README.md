@@ -133,7 +133,7 @@ Here is a curated glimpse of what I engineer — from deep neural architectures 
 ### 🛠️ Tech Arsenal & Weaponry
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikit-learn,fastapi,flask,bash,linux,git,github,postgres,mongodb,postman,vscode,docker,c&perline=8" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,fastapi,flask,bash,linux,postgres,mongodb,docker,git,github,postman,vscode&perline=8" alt="Tech Stack Icons" />
 </div>
 
 <br/>
