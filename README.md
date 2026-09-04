@@ -48,6 +48,22 @@ shourya@neural-hub:~$ cat profile.json
 }
 ```
 
+<details>
+<summary>🎮 <b>[Click to Expand] Interactive Neural Diagnostics & System Status</b></summary>
+<br/>
+
+```bash
+$ shourya-cli --benchmark --system-eval
+[+] Initializing Neural Metric Engine........... [OK]
+[+] Siamese Net Contrastive Loss.............. 0.042 (High Precision)
+[+] FastAPI Inference Latency................. 12ms / req (Uvicorn Async)
+[+] Striver DSA Mastery....................... Solved in Python (Optimized)
+[+] TensorTonic Solver Status................. Active & Advancing
+[+] Pipeline Status........................... 100% Operational & Scaling 🚀
+```
+
+</details>
+
 ---
 
 ### ⚡ Featured Innovations & Flagship Projects
@@ -173,13 +189,25 @@ class Shourya(Developer):
 
 <div align="center">
   <p align="center">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=Shourya-gupta-01&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=E6EDF3" alt="GitHub Stats" />
-    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shourya-gupta-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&hide=c" alt="Top Languages" />
+    <a href="https://github.com/Shourya-gupta-01?tab=repositories">
+      <img src="https://github-readme-stats-fast.vercel.app/api?username=Shourya-gupta-01&hide_rank=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=7928CA&text_color=E6EDF3" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/Shourya-gupta-01?tab=repositories&language=python">
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shourya-gupta-01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=E6EDF3&hide=c" alt="Top Languages" />
+    </a>
   </p>
   <p align="center">
-    <a href="https://github.com/Shourya-gupta-01">
+    <a href="https://github.com/Shourya-gupta-01?tab=overview">
       <img src="https://streak-stats.demolab.com/?user=Shourya-gupta-01&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00F0FF" alt="GitHub Streak" />
     </a>
+  </p>
+  <p align="center">
+    <a href="https://github.com/Shourya-gupta-01?tab=overview">
+      <img src="https://activity-graph.vercel.app/graph?username=Shourya-gupta-01&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Commit & Contribution Activity Graph" />
+    </a>
+  </p>
+  <p align="center">
+    <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hide_border=true&bg_color=0D1117&q_color=00F0FF&a_color=E6EDF3" alt="Developer Humor" />
   </p>
 </div>
 
