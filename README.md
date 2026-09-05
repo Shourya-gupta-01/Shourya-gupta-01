@@ -33,7 +33,7 @@
 ### 🚀 About Me
 
 ```yaml
-shourya@neural-hub:~$ cat profile.json
+shourya@archlinux:~$ cat profile.json
 ```
 ```json
 {
